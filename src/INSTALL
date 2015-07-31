@@ -1,0 +1,9 @@
+Building DarkTron
+
+See doc/readme-qt.rst for instructions on building DarkTron QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DarkTron.
+
+See doc/build-*.txt for instructions on building DarkTrond,
+the intended-for-services, no-graphical-interface, reference
+implementation of DarkTron.
